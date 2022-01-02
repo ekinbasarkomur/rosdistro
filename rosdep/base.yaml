@@ -4067,6 +4067,7 @@ libogre:
     xenial: [libogre-1.9.0v5]
     yakkety: [libogre-1.9-dev]
     zesty: [libogre-1.9-dev]
+    impish: [libogre-1.9-dev]
 libogre-dev:
   arch: [ogre-1.9]
   debian:
