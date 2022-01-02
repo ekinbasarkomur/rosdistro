@@ -8044,6 +8044,7 @@ yaml-cpp:
     xenial: [libyaml-cpp-dev]
     yakkety: [libyaml-cpp-dev]
     zesty: [libyaml-cpp-dev]
+    impish: [libyaml-cpp-dev]
 yamllint:
   arch: [yamllint]
   debian:
