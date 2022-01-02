@@ -4101,6 +4101,7 @@ libogre-dev:
     xenial: [libogre-1.9-dev]
     yakkety: [libogre-1.9-dev]
     zesty: [libogre-1.9-dev]
+    impish: [libogre-1.9-dev]
 libois-dev:
   arch: [ois]
   debian: [libois-dev]
