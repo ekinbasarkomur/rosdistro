@@ -4270,14 +4270,14 @@ liborocos-bfl-dev:
   ubuntu: [liborocos-bfl-dev]
 liborocos-kdl:
   debian:
-    '*': [liborocos-kdl1.4]
+    '*': [liborocos-kdl1.5]
     stretch: [liborocos-kdl1.3]
   fedora: [orocos-kdl]
   gentoo: [sci-libs/orocos_kdl]
   nixos: [orocos-kdl]
   openembedded: [orocos-kdl@meta-ros1-noetic]
   ubuntu:
-    '*': [liborocos-kdl1.4]
+    '*': [liborocos-kdl1.5]
     bionic: [liborocos-kdl1.3]
     xenial: [liborocos-kdl1.3]
 liborocos-kdl-dev:
